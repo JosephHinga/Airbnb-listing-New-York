@@ -117,10 +117,18 @@ This project is open-source and licensed under the [MIT License](https://opensou
 
 ---
 
+## 📝 Blog Posts
+https://dev.to/joseph_hinga_mwangi/exploratory-data-analysis-eda-the-first-step-to-understanding-data-310m
+
+
+
 ## Contact
 For any queries, feel free to reach out at:
 
 - 📧 Email: [hingamwangijoseph@gmail.com]
    
+
+
+
 
 
